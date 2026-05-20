@@ -38,7 +38,7 @@
         </div>
 
         <div style="width: 100%; display: flex; justify-content: center; padding: 20px 0 10px 0;"> 
-            <img src="https://shared.steamstatic.com/store_item_assets/steam/apps/1462570/logo_2x.png?t=1662047407" style="max-height: 50px; max-width: 200px; width: auto; object-fit: contain; display: block; border: none; background: transparent;"> 
+            <img src="https://shared.steamstatic.com/store_item_assets/steam/apps/1462570/logo_2x.png" style="max-height: 50px; max-width: 200px; width: auto; object-fit: contain; display: block; border: none; background: transparent;"> 
         </div>
 
         <div style="padding: 10px 20px 10px 20px;">

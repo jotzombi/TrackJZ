@@ -4,6 +4,7 @@
 
 
 <h2 style="color: #FFBA00; font-family: sans-serif; font-size: 1.6rem; font-weight: 800; margin: 10px 0; padding: 0; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: -0.5px; text-transform: uppercase;">SEZONY</h2>
+
 <div style="display: block; background: #FFBA00; padding: 2.5px; overflow: hidden; max-width: 600px; margin: 0 auto; clip-path: polygon(25px 0%, 100% 0%, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0% 100%, 0% 25px);">
     <div style="display: block; background: #A87C05; color: #FFBA00; overflow: hidden; font-family: sans-serif; text-align: left; clip-path: polygon(22.5px 0%, 100% 0%, 100% calc(100% - 22.5px), calc(100% - 22.5px) 100%, 0% 100%, 0% 22.5px);">
         
