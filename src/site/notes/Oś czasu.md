@@ -150,4 +150,49 @@
     </div>
 </div>
 
+<div style="display: block; background: #FFBA00; padding: 2.5px; overflow: hidden; max-width: 600px; width: 100%; margin: 0 auto; clip-path: polygon(25px 0%, 100% 0%, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0% 100%, 0% 25px); box-sizing: border-box;">
+    
+    <div style="display: block; background: #A87C05; color: #FFBA00; overflow: hidden; font-family: sans-serif; text-align: left; clip-path: polygon(22.5px 0%, 100% 0%, 100% calc(100% - 22.5px), calc(100% - 22.5px) 100%, 0% 100%, 0% 22.5px); height: auto; max-height: max-content;">
+        
+        <div style="width: 100%; height: 200px; max-height: 200px; background: url('https://i.ibb.co/fVJL6MJz/falloutserial-sezon1-tlo.png') center/cover no-repeat; position: relative; display: block;">
+            
+            <div style="position: absolute; top: 0; left: 0; display: flex; align-items: stretch; height: 24px;">
+                <div style="background: #FFBA00; color: #A87C05; font-size: 0.65rem; font-weight: bold; padding: 5px 10px 5px 20px; letter-spacing: 1px; text-transform: uppercase; clip-path: polygon(0 0, 100% 0, calc(100% - 6px) 100%, 0 100%); margin-right: -6px; z-index: 2; line-height: 14px;">SERIAL</div>
+                <div style="background: #A87C05; color: #FFBA00; font-size: 0.65rem; font-weight: bold; padding: 5px 15px 5px 15px; letter-spacing: 1px; text-transform: uppercase; display: flex; align-items: center; justify-content: center; clip-path: polygon(6px 0, 100% 0, calc(100% - 6px) 100%, 0 100%); z-index: 1; line-height: 14px;">SEZON 1 </div>
+            </div>
+
+            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 24px; max-height: 24px; background: rgba(0, 0, 0, 0.4); display: flex; align-items: center; justify-content: center; overflow: hidden;">
+                <div style="position: absolute; top: 0; left: 0; width: 75%; height: 100%; background: #ccff00; clip-path: polygon(0% 0%, 100% 0%, 97% 100%, 0% 100%); z-index: 1;"></div>
+                <div style="position: relative; z-index: 2; width: 70%; color: #000000; font-size: 0.7rem; font-weight: 900; letter-spacing: 1px; text-align: center; padding-right: 5%; line-height: 24px;"> 75 </div>
+            </div>
+
+        </div>
+
+        <div style="width: 100%; height: auto; max-height: 50px; background: rgba(0, 0, 0, 0.35); padding: 8px 10px; box-sizing: border-box; text-align: center; display: block;">
+            <div style="color: #ccff00; font-size: 0.65rem; font-weight: 800; letter-spacing: 0.5px; text-transform: uppercase; line-height: 1.3; margin: 0; padding: 0;">
+                No i to tak właśnie powinno się robić seriale. Ale co ja tam wiem?... Nie?
+            </div>
+        </div>
+        
+        <div style="display: flex; align-items: stretch; width: 100%; background: #FFBA00; height: 26px; max-height: 26px; overflow: hidden;">
+            <div style="flex-grow: 1; color: #A87C05; font-size: 0.65rem; font-weight: bold; padding: 0 10px 0 20px; letter-spacing: 0.5px; text-transform: uppercase; display: flex; align-items: center; white-space: nowrap;"> Akcja &nbsp;|&nbsp; Sci-Fi &nbsp;|&nbsp; Postapo </div>
+            <div style="background: #126D07; color: #27EE0F; font-size: 0.65rem; font-weight: 900; padding: 0 20px 0 25px; letter-spacing: 1px; text-transform: uppercase; clip-path: polygon(13px 0%, 100% 0%, 100% 100%, 0% 100%); margin-left: -15px; display: flex; align-items: center; min-width: 90px; justify-content: center;"> OBEJRZANY</div>
+        </div>
+
+        <div style="width: 100%; height: auto; max-height: 60px; display: flex; justify-content: center; padding: 10px 0 5px 0; margin: 0; box-sizing: border-box;"> 
+            <img src="https://image.tmdb.org/t/p/original/wQKyybjZoCFlYFqXVzp7jIjPxFl.png" style="height: 40px; max-height: 40px; width: auto; object-fit: contain; display: block; border: none; background: transparent; margin: 0 auto; padding: 0;"> 
+        </div>
+
+        <div style="padding: 5px 20px 10px 20px; height: auto; display: block; margin: 0; box-sizing: border-box;">
+            <p style="font-size: 0.85rem; line-height: 1.4; margin: 0 !important; padding: 0 !important; text-align: justify; color: #FFBA00;">Pierwszy sezon Fallouta wciąga i dobrze bawi, nawet jeśli nie znasz gier. Serial świetnie promuje to uniwersum, pozostając lekki i kanoniczny. Czarny humor i postapo robią swoje. Szczerze polecam!</p>
+        </div>
+
+        <div style="display: flex; justify-content: flex-end; width: 100%; background: transparent; margin: 0; padding: 0; height: 36px; max-height: 36px;">
+            <div style="background: #FFBA00; font-size: 0.75rem; font-weight: 900; letter-spacing: 1px; padding: 0 40px 0 25px; text-transform: uppercase; clip-path: polygon(10px 0%, 100% 0%, 100% 100%, 0% 100%); display: flex; align-items: center; height: 100%;"> 
+                <a href="https://twoja-strona.pl" style="color: #A87C05; text-decoration: none; display: block; line-height: 36px;">PEŁNA RECENZJA &nbsp;▶</a> 
+            </div>
+        </div>
+
+    </div>
+</div>
 
