@@ -101,7 +101,6 @@
 
     </div>
 </div>
-
 <div style="display: block; background: #FFBA00; padding: 2.5px; overflow: hidden; max-width: 600px; width: 100%; margin: 0 auto; clip-path: polygon(25px 0%, 100% 0%, 100% calc(100% - 25px), calc(100% - 25px) 100%, 0% 100%, 0% 25px); box-sizing: border-box;">
     
     <div style="display: block; background: #A87C05; color: #FFBA00; overflow: hidden; font-family: sans-serif; text-align: left; clip-path: polygon(22.5px 0%, 100% 0%, 100% calc(100% - 22.5px), calc(100% - 22.5px) 100%, 0% 100%, 0% 22.5px);">
